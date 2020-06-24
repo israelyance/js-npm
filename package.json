@@ -10,10 +10,12 @@
   "author": "Israel Yance <israel@uni.pe>",
   "license": "MIT",
   "dependencies": {
+    "json-server": "^0.15.0",
     "moment": "^2.27.0"
   },
   "devDependencies": {
-    "date-fns": "^2.14.0"
+    "date-fns": "^2.14.0",
+    "webpack": "^4.43.0"
   },
   "optionalDependencies": {
     "eslint": "^7.3.1"
