@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "date-fns": "^2.14.0",
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   },
   "optionalDependencies": {
     "eslint": "^7.3.1"
